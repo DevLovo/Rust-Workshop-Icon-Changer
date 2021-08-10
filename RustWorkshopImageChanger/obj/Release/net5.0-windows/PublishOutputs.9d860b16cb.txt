@@ -1,0 +1,5 @@
+C:\Users\jake\source\repos\RustWorkshopImageChanger\RustWorkshopImageChanger\bin\publish\RustWorkshopImageChanger.exe
+C:\Users\jake\source\repos\RustWorkshopImageChanger\RustWorkshopImageChanger\bin\publish\RustWorkshopImageChanger.dll
+C:\Users\jake\source\repos\RustWorkshopImageChanger\RustWorkshopImageChanger\bin\publish\RustWorkshopImageChanger.deps.json
+C:\Users\jake\source\repos\RustWorkshopImageChanger\RustWorkshopImageChanger\bin\publish\RustWorkshopImageChanger.runtimeconfig.json
+C:\Users\jake\source\repos\RustWorkshopImageChanger\RustWorkshopImageChanger\bin\publish\RustWorkshopImageChanger.pdb
