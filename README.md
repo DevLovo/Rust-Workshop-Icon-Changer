@@ -8,4 +8,4 @@ Tutorial:
 2. Publish your skin in rust to the workshop
 3. Done
 
-Build: https://github.com/DevLovo/Rust-Workshop-Icon-Changer/raw/main/build.rar
+Build: https://github.com/DevLovo/Rust-Workshop-Icon-Changer/raw/main/build.zip
