@@ -1,0 +1,9 @@
+C:\Users\jake\source\repos\RWIC\RWIC\bin\Debug\RWIC.exe.config
+C:\Users\jake\source\repos\RWIC\RWIC\bin\Debug\RWIC.exe
+C:\Users\jake\source\repos\RWIC\RWIC\bin\Debug\RWIC.pdb
+C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.RWIC.resources
+C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.Properties.Resources.resources
+C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.csproj.GenerateResource.cache
+C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.csproj.CoreCompileInputs.cache
+C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.exe
+C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.pdb
