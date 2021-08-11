@@ -7,3 +7,4 @@ C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.csproj.GenerateResource.cach
 C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.csproj.CoreCompileInputs.cache
 C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.exe
 C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.pdb
+C:\Users\jake\source\repos\RWIC\RWIC\obj\Debug\RWIC.csprojAssemblyReference.cache
