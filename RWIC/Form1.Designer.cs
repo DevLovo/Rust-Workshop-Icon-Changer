@@ -37,7 +37,6 @@ namespace RWIC
             this.label2 = new System.Windows.Forms.Label();
             this.setImage = new System.Windows.Forms.Button();
             this.setImage2 = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
             this.log = new System.Windows.Forms.TextBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
@@ -111,16 +110,6 @@ namespace RWIC
             this.setImage2.UseVisualStyleBackColor = true;
             this.setImage2.Click += new System.EventHandler(this.setImage2_Click);
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Corbel", 12F);
-            this.label3.Location = new System.Drawing.Point(42, 328);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(452, 19);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "TIP: If only one image is set it will set them both to the same image";
-            // 
             // log
             // 
             this.log.Location = new System.Drawing.Point(12, 355);
@@ -147,7 +136,6 @@ namespace RWIC
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(552, 499);
             this.Controls.Add(this.log);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.setImage2);
             this.Controls.Add(this.setImage);
             this.Controls.Add(this.label2);
@@ -175,7 +163,6 @@ namespace RWIC
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button setImage;
         private System.Windows.Forms.Button setImage2;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox log;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.Timer timer1;

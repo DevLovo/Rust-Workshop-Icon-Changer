@@ -100,6 +100,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
     }
@@ -237,15 +245,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:RWIC"
-        "ProductCode" = "8:{CCCA73B1-3667-4B8C-86B5-3BCDE7E47A10}"
-        "PackageCode" = "8:{AB6A9D15-FDD3-4551-A8CC-6B3F4A264285}"
+        "ProductCode" = "8:{C8488513-71A1-4AD6-BB01-78ED758392E3}"
+        "PackageCode" = "8:{9C08927D-01DE-49CB-9C44-FAF954B5D52D}"
         "UpgradeCode" = "8:{BED0C8AF-DCBB-4EF2-8F5E-001C1E1D00C0}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:6.1"
+        "ProductVersion" = "8:6.3"
         "Manufacturer" = "8:Lovo"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
